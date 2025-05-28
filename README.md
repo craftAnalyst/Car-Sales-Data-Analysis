@@ -9,7 +9,7 @@ Before analysis began, essential R packages were installed:
 - 'tidyverse': A suite of R packages used for data manipulation (dplyr), tidying (tidyr), and visualization (ggplot2).  
 - 'caTools': Often used for data splitting and evaluation; not utilized in this script but commonly associated with data modeling tasks.  
 - 'e1701': This appears to be either a typo or a reference to a specialized statistical package; it is not actively used in the script.
-- 
+  
 **3. Initial Data Manipulation**  
 Basic data structures and operations were explored to ensure proper understanding of R syntax. A vector of grades was created, and functions like indexing, length checking, and calculating the mean were applied.
 Furthermore, a small sample dataset 'student_data' was constructed using the data.frame() function to simulate working with structured tabular data.
